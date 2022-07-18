@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122440" started-at="2022-07-17T11:08:47 IST" finished-at="2022-07-17T11:10:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122440" started-at="2022-07-17T11:08:47 IST" finished-at="2022-07-17T11:10:49 IST">
+      <class name="TestClass.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="19498" started-at="2022-07-17T11:08:47 IST" finished-at="2022-07-17T11:09:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTest()[pri:1, instance:TestClass.TestCase1@4e718207]" name="VerifyTest" duration-ms="80" started-at="2022-07-17T11:09:06 IST" finished-at="2022-07-17T11:09:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="2182" started-at="2022-07-17T11:09:06 IST" finished-at="2022-07-17T11:09:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="17554" started-at="2022-07-17T11:09:08 IST" finished-at="2022-07-17T11:09:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Title()[pri:2, instance:TestClass.TestCase1@4e718207]" name="Title" duration-ms="19" started-at="2022-07-17T11:09:26 IST" finished-at="2022-07-17T11:09:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="379" started-at="2022-07-17T11:09:26 IST" finished-at="2022-07-17T11:09:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="16188" started-at="2022-07-17T11:09:26 IST" finished-at="2022-07-17T11:09:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ratingPoint()[pri:3, instance:TestClass.TestCase1@4e718207]" name="ratingPoint" duration-ms="35" started-at="2022-07-17T11:09:43 IST" finished-at="2022-07-17T11:09:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ratingPoint -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="2104" started-at="2022-07-17T11:09:43 IST" finished-at="2022-07-17T11:09:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="16324" started-at="2022-07-17T11:09:45 IST" finished-at="2022-07-17T11:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="reviewPrint()[pri:4, instance:TestClass.TestCase1@4e718207]" name="reviewPrint" duration-ms="38" started-at="2022-07-17T11:10:01 IST" finished-at="2022-07-17T11:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewPrint -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="2404" started-at="2022-07-17T11:10:01 IST" finished-at="2022-07-17T11:10:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="16913" started-at="2022-07-17T11:10:04 IST" finished-at="2022-07-17T11:10:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyLink()[pri:5, instance:TestClass.TestCase1@4e718207]" name="VerifyLink" duration-ms="67" started-at="2022-07-17T11:10:20 IST" finished-at="2022-07-17T11:10:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="428" started-at="2022-07-17T11:10:20 IST" finished-at="2022-07-17T11:10:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClass.TestCase1@4e718207]" name="setup" is-config="true" duration-ms="17685" started-at="2022-07-17T11:10:21 IST" finished-at="2022-07-17T11:10:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyNumber()[pri:6, instance:TestClass.TestCase1@4e718207]" name="VerifyNumber" duration-ms="8354" started-at="2022-07-17T11:10:39 IST" finished-at="2022-07-17T11:10:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNumber -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestClass.TestCase1@4e718207]" name="TearDown" is-config="true" duration-ms="2083" started-at="2022-07-17T11:10:47 IST" finished-at="2022-07-17T11:10:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestClass.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
